@@ -27,4 +27,10 @@ Random
 
 This app requires only a python standard library to run, you don't need to install any additional libraries.
 
+![Typing-Speed](https://user-images.githubusercontent.com/41125224/222921560-19778b11-48e1-4b8b-8208-761e561c02e4.png)
+
+---
+![Typing-Speed2](https://user-images.githubusercontent.com/41125224/222921570-b4dd2647-4bfe-4bb7-8794-ff5681d6a046.png)
+
+
 
